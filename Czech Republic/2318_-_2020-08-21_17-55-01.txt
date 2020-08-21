@@ -1,0 +1,135 @@
+===============================================================================
+RDS Spy Report           * Freeware Windows RDS Decoder * http://www.rdsspy.com
+===============================================================================
+Frequency       : 99,4 MHz
+Created         : 2020/08/21 17:55:04
+Receiving since : 2020/08/21 17:53:31
+Best BER        : 0 %
+===============================================================================
+
+---/ Program \-----------------------------------------------------------------
+
+PI   = 2318 (Outstanding)
+PS   = DALNICE 
+TP   = 1   TA = 0
+M/S  = 1
+ECC  = 
+LIC  = 
+DI   = 1
+PIN  = 
+PTY  = Information / Sports (3)
+PTYN =         
+
+Local Time = 
+UTC Time   = 
+Time Error = 
+
+PS History:
+17:54:22: DA8aICE 
+17:54:23: DALNICE 
+
+PTY History:
+17:53:32: Information / Sports (3)
+
+---/ Radiotext \---------------------------------------------------------------
+
+RT A/0  = Radio Dalnice - prvni specializovane dopravni radio             
+RT B/1  = RADIO DALNICE - DOPRAVNI LINKA 601 001 001                      
+RT Flag = 1
+
+RT Plus:
+Tag 1    = Tag 1 = 
+Tag 2    = Tag 2 = 
+Raw Data = 0,0,0,0,0,0,0,0
+
+RT History:
+17:53:31 RADIO DALNICE - DOPRAVNI LINKA 601 001 001                      
+17:53:57 Radio Dalnice - prvni specializovane dopravni radio             
+17:54:08 RADIO DALNICE - DOPRAVNI LINKA 601 001 001                      
+17:54:38 Radio Dalnice - prvni specializovane dopravni radio             
+17:54:47 RADIO DALNICE - DOPRAVNI LINKA 601 001 001                      
+
+---/ Alternative Frequencies \-------------------------------------------------
+
+AF Method A:
+#25, 99,6 MHz, 107,9 MHz, 107,2 MHz, 105,1 MHz, 105,0 MHz, 99,4 MHz, 98,6 MHz, 98,5 MHz, 98,3 MHz, 97,1 MHz, 96,4 MHz, 96,1 MHz, 95,9 MHz, 95,8 MHz, 94,7 MHz, 94,2 MHz, 94,1 MHz, 92,3 MHz, 92,0 MHz, 91,9 MHz, 91,7 MHz, 90,2 MHz, 88,6 MHz, 88,4 MHz, 97,...
+
+AF Method B:
+
+
+---/ EON \---------------------------------------------------------------------
+
+EON 1:   PI  = 2318
+         PS  = DALNICE 
+         TP  = 1   TA = 0   
+         PTY = Information / Sports (3)
+
+EON 2:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+EON 3:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+EON 4:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+---/ Group Statistics \--------------------------------------------------------
+
+Group Proportion:
+ 0A = 45,5 %  (1 of 2,2)
+ 0B = 0,0 %
+ 1A = 0,0 %
+ 1B = 0,0 %
+ 2A = 22,4 %  (1 of 4,5)
+ 2B = 0,0 %
+ 3A = 6,5 %  (1 of 15)
+ 3B = 0,0 %
+ 4A = 0,0 %
+ 4B = 0,0 %
+ 5A = 0,0 %
+ 5B = 0,0 %
+ 6A = 0,0 %
+ 6B = 0,0 %
+ 7A = 0,0 %
+ 7B = 0,0 %
+ 8A = 0,0 %
+ 8B = 0,0 %
+ 9A = 0,0 %
+ 9B = 0,0 %
+10A = 0,0 %
+10B = 0,0 %
+11A = 0,0 %
+11B = 0,1 %
+12A = 0,1 %
+12B = 0,0 %
+13A = 0,0 %
+13B = 0,0 %
+14A = 7,6 %  (1 of 13)
+14B = 0,0 %
+15A = 0,0 %
+15B = 0,0 %
+
+Group Sequence:
+ 0A 0A 0A 8A 0A 2A 8A 2A 0A 0A 3A 0A 0A 2A 2A 8A 14A 0A 0A 8A 0A 0A 8A 
+
+---/ ODA AID \-----------------------------------------------------------------
+
+ODA 1:   AID        = CD46
+         Proportion = 6,5 %  (1/15)
+         App. Group = 8A
+
+ODA 2:   AID        = 
+         Proportion = 
+         App. Group = 
+
+ODA 3:   AID        = 
+         Proportion = 
+         App. Group = 
+
+---[ END ]---------------------------------------------------------------------

@@ -1,0 +1,140 @@
+===============================================================================
+RDS Spy Report           * Freeware Windows RDS Decoder * http://www.rdsspy.com
+===============================================================================
+Frequency       : 100,1 MHz
+Created         : 2020/08/21 17:57:52
+Receiving since : 2020/08/21 17:55:13
+Best BER        : 0 %
+===============================================================================
+
+---/ Program \-----------------------------------------------------------------
+
+PI   = 232E (Outstanding)
+PS   = R-DVOJKA
+TP   = 1   TA = 0
+M/S  = 1
+ECC  = 
+LIC  = 
+DI   = 1
+PIN  = 
+PTY  = Varied Speech / TOP 40 (9)
+PTYN =         
+
+Local Time = 2020/08/21 (Fri) - 17:58
+UTC Time   = 2020/08/21 (Fri) - 17:58
+Time Error = +0:00:20
+
+PS History:
+17:56:32: THE ONE 
+17:56:35: AND ONLY
+17:56:38: CHESNEY 
+17:56:41: IF      
+17:56:41: CHESNE -
+17:56:41: HAWKES -
+17:56:44: R-DVOJKA
+17:56:54:     bc  
+17:56:54: ºF  OJKA
+17:56:55: R-DVOJKA
+
+PTY History:
+17:55:13: Varied Speech / TOP 40 (9)
+
+---/ Radiotext \---------------------------------------------------------------
+
+RT A/0  = ____NEY ________ THE____________________________________________
+RT B/1  = CHESNEY HAWKES - THE ONE AND ONLY                               
+RT Flag = 0
+
+RT Plus:
+Tag 1    = Tag 1 = 
+Tag 2    = Tag 2 = 
+Raw Data = 0,0,0,0,0,0,0,0
+
+RT History:
+17:55:13 OLYMPIC - DAVNO                                                 
+17:55:59 CHESNEY HAWKES - THE ONE AND ONLY                               
+
+---/ Alternative Frequencies \-------------------------------------------------
+
+AF Method A:
+#7, 89,9 MHz, 100,1 MHz, 102,2 MHz, 103,2 MHz, 107,1 MHz, 107,7 MHz, 93,4 MHz, 105,6 MHz, 105,0 MHz, 94,9 MHz, 96,5 MHz
+
+AF Method B:
+
+
+---/ EON \---------------------------------------------------------------------
+
+EON 1:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+EON 2:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+EON 3:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+EON 4:   PI  = 
+         PS  = 
+         TP  =    TA =    
+         PTY =  ()
+
+---/ Group Statistics \--------------------------------------------------------
+
+Group Proportion:
+ 0A = 85,4 %  (1 of 1,2)
+ 0B = 0,0 %
+ 1A = 0,0 %
+ 1B = 0,0 %
+ 2A = 14,3 %  (1 of 7,0)
+ 2B = 0,0 %
+ 3A = 0,0 %
+ 3B = 0,0 %
+ 4A = 0,1 %
+ 4B = 0,0 %
+ 5A = 0,0 %
+ 5B = 0,0 %
+ 6A = 0,0 %
+ 6B = 0,0 %
+ 7A = 0,0 %
+ 7B = 0,0 %
+ 8A = 0,0 %
+ 8B = 0,0 %
+ 9A = 0,0 %
+ 9B = 0,0 %
+10A = 0,0 %
+10B = 0,2 %  (1 of 660)
+11A = 0,0 %
+11B = 0,0 %
+12A = 0,0 %
+12B = 0,0 %
+13A = 0,0 %
+13B = 0,0 %
+14A = 0,0 %
+14B = 0,0 %
+15A = 0,0 %
+15B = 0,0 %
+
+Group Sequence:
+ 0A 0A 0A 2A 0A 0A 0A 0A 0A 0A 0A 0A 0A 2A 0A 0A 0A 0A 0A 0A 0A 0A 0A 
+
+---/ ODA AID \-----------------------------------------------------------------
+
+ODA 1:   AID        = 
+         Proportion = 
+         App. Group = 
+
+ODA 2:   AID        = 
+         Proportion = 
+         App. Group = 
+
+ODA 3:   AID        = 
+         Proportion = 
+         App. Group = 
+
+---[ END ]---------------------------------------------------------------------
