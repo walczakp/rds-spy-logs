@@ -1,5 +1,5 @@
 # rds-spy-logs
-Collection of RDS Spy logs from various FM stations throughout the world, recorded by myself on-location or through awesome SpyServer network. Multitude of logs containing different quirks of RDS broadcasting as performed by broadcasters from different countries.  
+Collection of RDS Spy logs from various FM stations throughout the world, recorded by myself on-location, through awesome SpyServer network or contributed by others. Multitude of logs containing different quirks of RDS broadcasting as performed by broadcasters from different countries.  
   
 Fun examples include:  
 * [Sweden/E203 - 2019-05-04 18-02-28.spy](Sweden/E203%20-%202019-05-04%2018-02-28.spy) - dynamic PTY  
